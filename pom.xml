@@ -39,12 +39,12 @@
 
     <properties>
         <character.encoding>UTF-8</character.encoding>
-        <java.level>11</java.level>
+        <java.level>17</java.level>
         <project.build.sourceEncoding>${character.encoding}</project.build.sourceEncoding>
-        <slf4j.version>2.0.10</slf4j.version>
-        <spring-framework.version>5.3.31</spring-framework.version>
-        <javafx.version>17.0.8</javafx.version>
-        <spring-boot.version>2.7.18</spring-boot.version>
+        <slf4j.version>2.0.13</slf4j.version>
+        <spring-framework.version>6.1.8</spring-framework.version>
+        <javafx.version>17.0.11</javafx.version>
+        <spring-boot.version>3.3.0</spring-boot.version>
         <assertj-core.version>3.21.0</assertj-core.version>
         <mockito.version>4.2.0</mockito.version>
     </properties>
